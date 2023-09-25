@@ -1,6 +1,102 @@
-.sunita{
-    width: 200px;
-    height: 400px;
-    background-color: red;
-    border-radius: 10px;
+.otmazki {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
 }
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: wheat;
+}
+
+header {
+    background-color: #333;
+    text-align: center;
+    padding: 10px;
+}
+
+.container {
+    height:100px;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgb(251, 220, 164);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  
+}
+
+.ieg{
+    border-radius: 50px;
+    width: 80px;
+    padding: 80px;
+    position: relative;
+    top: -170px;
+    left: 550px;
+}
+
+h1 {
+    color: #333;
+}
+
+p {
+    line-height: 1.6;
+}
+
+
+.sos {
+    color: rgb(255, 255, 255);
+}
+
+.search {
+    position: relative;
+    left: 377px;
+    background-color: rgb(251, 220, 161);
+
+}
+
+.hfor {
+    display: flex;
+}
+
+.imigi{
+    width: 600px;
+    height: 500px;
+    position: relative;
+    left: 60px;
+    
+}
+
+.footer{
+    background-color: rgb(248, 213, 160);
+    text-align: center;
+    justify-content: space-around;
+}
+
+.bibi{
+    text-align: center;
+    color: white;
+    background-color: red;
+}
+
+#likeButton{
+    width: 80px;
+    height: 80px;
+    background: none;
+}
+#dislikeButton{
+    width: 80px;
+    height: 80px;
+    background: none;
+}
+
+.likeButton{
+    width: 70px;
+    height: 70px;
+}
+.dislikeButton{
+    width: 70px;
+    height: 70px;
+}
+
